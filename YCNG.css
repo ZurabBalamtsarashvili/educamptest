@@ -1,0 +1,114 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/-svg.svg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 68px;
+  height: 97px;
+  object-position: 50% 21.44%;
+  margin: 40px auto 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "BPG Nino Mtavruli", sans-serif;
+  margin: 40px auto 0;
+}
+
+.u-section-1 .u-group-elements-1 {
+  width: 269px;
+  min-height: 334px;
+  height: auto;
+  margin: 80px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  width: 260px;
+  margin: 0 6px 0 3px;
+  padding: 10px 15px 10px 15px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 70px 10px 70px;
+}
+
+.u-section-1 .u-btn-3 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 50px 10px 50px;
+}
+
+.u-section-1 .u-btn-4 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 35px 10px 35px
+}
+
+.u-section-1 .u-btn-5 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 45px 10px 45px;
+}
+
+.u-section-1 .u-btn-6 {
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  border-style: none;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 20px auto 0;
+  padding: 10px 80px 10px 80px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 674px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 737px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-group-elements-1 {
+    margin-top: 40px;
+  }
+}
